@@ -10,9 +10,9 @@ File 4-listmorefiles displays current directory contents, including hidden files
 
 File 5-listfilesdigitonly displays current directory contents in long format, with user and group IDs displayed numerically and hidden files.
 
-File 6-firstdirectory creates a script that creates a directory named holberton in the /tmp/ directory.
+File 6-firstdirectory creates a script that creates a directory named my_first_directory in the /tmp/ directory.
 
-File 7-movethatfile moves the file betty from /tmp/ to /tmp/holberton.
+File 7-movethatfile moves the file betty from /tmp/ to /tmp/my_first_directory.
 
 File 8-firstdelete deletes he file betty.
 
@@ -32,6 +32,6 @@ File 15-lets_move creates a script that moves all files beginning with an upperc
 
 File 16-clean_emacs creates a script that deletes all files in the current working directory that end with the character ~.
 
-File 17-tree creates a script that creates the directories welcome/, welcome/to/ and welcome/to/holberton in the current directory.
+File 17-tree creates a script that creates the directories welcome/, welcome/to/ and welcome/to/School in the current directory.
 
 File 18-commas writes a command that lists all the files and directories of the current directory, separated by commas (,).
